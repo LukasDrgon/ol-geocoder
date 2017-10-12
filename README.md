@@ -18,6 +18,9 @@
   <a href="https://david-dm.org/jonataswalker/ol3-geocoder">
     <img src="https://david-dm.org/jonataswalker/ol3-geocoder/dev-status.svg" alt="devDependency status">
   </a>
+  <a href="https://www.jsdelivr.com/package/npm/ol3-geocoder">
+    <img src="https://data.jsdelivr.com/v1/package/npm/ol3-geocoder/badge?style=rounded">
+  </a>
 </p>
 
 A geocoder extension for [OpenLayers 3](http://openlayers.org/). **Requires** OpenLayers **v3.11.0** or higher.
